@@ -3,6 +3,9 @@
 # 👨‍💻 이재혁 (LEE JAE HYOEK)
 **Backend Developer**
 
+<img width="250" height="267" alt="image" src="https://github.com/user-attachments/assets/86003609-56ed-4698-96ed-e80740b2cceb" />
+
+
 **신입 개발자** | **삼육대학교 컴퓨터공학부 졸업**  
 
 ## 🛠️ Tech Stack
