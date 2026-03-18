@@ -3,7 +3,7 @@
 # 👨‍💻 이재혁 (LEE JAE HYOEK)
 **Backend Developer**
 
-<img width="250" height="267" alt="image" src="https://github.com/user-attachments/assets/86003609-56ed-4698-96ed-e80740b2cceb" />
+<img width="220" height="237" alt="image" src="https://github.com/user-attachments/assets/86003609-56ed-4698-96ed-e80740b2cceb" />
 
 
 **신입 개발자** | **삼육대학교 컴퓨터공학부 졸업**  
@@ -35,6 +35,10 @@
 </table>
 
 ## 🔥 대표 프로젝트
+
+### 🐾 **RaidHub (로스트아크)**
+**Flutter + SpringBoot + Azure Cloud + Redis**  
+온라인 게임 로스트아크 공략 모음 허브
 
 ### 🐾 **시각장애인 보조시스템 앱**
 **Flutter + FastAPI + 실시간 객체인식 + Azure Cloud**  
