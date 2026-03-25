@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 이재혁 (LEE JAE HYOEK)
+#  이재혁 (LEE JAE HYOEK)
 **Backend Developer**
 
 <img width="220" height="237" alt="image" src="https://github.com/user-attachments/assets/86003609-56ed-4698-96ed-e80740b2cceb" />
@@ -34,27 +34,27 @@
 </tr>
 </table>
 
-## 🔥 대표 프로젝트
+##  대표 프로젝트
 
-### 🐾 **RaidHub (로스트아크)**
+###  **RaidHub (로스트아크)**
 **Flutter + SpringBoot + Azure Cloud + Redis**  
 온라인 게임 로스트아크 공략 모음 허브
 
-### 🐾 **시각장애인 보조시스템 앱**
+###  **시각장애인 보조시스템 앱**
 **Flutter + FastAPI + 실시간 객체인식 + Azure Cloud**  
 실시간 YOLO 탐지로 시각장애인에게 음성 안내 제공
 
-### 📊 **고객 이탈율 예측 솔루션**
+###  **고객 이탈율 예측 솔루션**
 **FastApi + ML 모델**  
 고객 행동 분석으로 이탈률 85% 정확도 예측
 
-### 👁️ **지능형 CCTV 프로젝트**
+###  **지능형 CCTV 프로젝트**
 **Node.js + WebSoket**  
 실시간 영상 분석 및 이상행동 감지 시스템(학부 연구생 프로젝트 - 한국항행학회 우수논문상)
 
 ---
 
 
-**💼 백엔드 개발자로 성장 중입니다!**
+** 백엔드 개발자로 성장 중입니다!**
 
 </div>
