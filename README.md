@@ -36,7 +36,7 @@
 
 ##  대표 프로젝트
 
-###  **RaidHub (로스트아크)**
+###  **RaidHub (로스트아크) - 현재 서비스 진행중(LIVE)**
 **Flutter + SpringBoot + Azure Cloud + Redis**  
 온라인 게임 로스트아크 공략 모음 허브
 
