@@ -5,7 +5,7 @@
 
 <img width="220" height="237" alt="image" src="https://github.com/user-attachments/assets/86003609-56ed-4698-96ed-e80740b2cceb" />
 <br>
-![Emolga](https://github.com/user-attachments/assets/eb387e14-227b-40be-8d09-cf7592d8d4bf)
+![Emolga](https://github.com/user-attachments/assets/3433ebfa-b5ed-4311-b1c0-ded80f6eddfe)
 <!-- <img src="https://github.com/user-attachments/assets/eb387e14-227b-40be-8d09-cf7592d8d4bf" width="200"> -->
 
 
