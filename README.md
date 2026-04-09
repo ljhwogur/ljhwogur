@@ -4,7 +4,7 @@
 **Backend Developer**
 
 <img width="220" height="237" alt="image" src="https://github.com/user-attachments/assets/86003609-56ed-4698-96ed-e80740b2cceb" />
-<img src="https://github.com/user-attachments/assets/5186b510-4493-41ec-817c-0e78c8f0009c" width="200">
+<img src="https://github.com/ljhwogur/ljhwogur/issues/1" width="200">
 
 
 **신입 개발자** | **삼육대학교 컴퓨터공학부 졸업**  
